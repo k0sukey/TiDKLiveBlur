@@ -39,7 +39,7 @@ var tableView = Ti.UI.createTableView({
 });
 ```
 
-### Alloy(for Ti.UI.ListView and data binding)
+### Alloy(for Ti.UI.ListView)
 #### View
 ```
 <Window>
