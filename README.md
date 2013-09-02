@@ -1,6 +1,6 @@
 ## TiDKLiveBlur
 
-Wrapping [TiDKLiveBlur](https://github.com/kronik/DKLiveBlur) for Ti.UI.TableView and Ti.UI.ListView on Titanium Mobile.
+Wrapping [DKLiveBlur](https://github.com/kronik/DKLiveBlur) for Ti.UI.TableView and Ti.UI.ListView on Titanium Mobile.
 
 ![image](TiDKLiveBlur.png)
 
