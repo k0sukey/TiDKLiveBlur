@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E583F241-3CAD-4031-A01E-4CAA3B9133CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiDKLiveBlur</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0ADB5AA09736AF4AB2ED530E20F921C66EDF5582</key>
+		<string>github.com:k0sukey/TiDKLiveBlur.git</string>
+		<key>E546B06C786C54AF5A4AC9BA77C80E70C9CF897F</key>
+		<string>github.com:kronik/DKLiveBlur.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiDKLiveBlur.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0ADB5AA09736AF4AB2ED530E20F921C66EDF5582</key>
+		<string>../..</string>
+		<key>E546B06C786C54AF5A4AC9BA77C80E70C9CF897F</key>
+		<string>../..DKLiveBlur/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:k0sukey/TiDKLiveBlur.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0ADB5AA09736AF4AB2ED530E20F921C66EDF5582</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E546B06C786C54AF5A4AC9BA77C80E70C9CF897F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DKLiveBlur</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0ADB5AA09736AF4AB2ED530E20F921C66EDF5582</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiDKLiveBlur</string>
+		</dict>
+	</array>
+</dict>
+</plist>
